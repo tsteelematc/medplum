@@ -151,6 +151,7 @@ module.exports = {
     'packages/docs/build/',
     'packages/docs/docusaurus.config.js',
     'packages/docs/sidebars.js',
+    'packages/expo-medplum-polyfills/build',
     'babel.config.js',
     'jest.sequencer.js',
     'package-lock.json',
